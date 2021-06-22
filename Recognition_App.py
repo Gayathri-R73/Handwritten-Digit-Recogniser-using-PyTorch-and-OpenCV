@@ -41,9 +41,6 @@ def ImagePreProcess(im_orig, fr):
 	
 def main():
 
-    t0=int(time.time());
-    d=0
-	
     while True:
         try:
 
